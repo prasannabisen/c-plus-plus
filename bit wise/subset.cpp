@@ -31,3 +31,5 @@ int main()
 	cin>>a;
 	print(a);
 }
+
+
